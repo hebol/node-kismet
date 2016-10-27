@@ -1,6 +1,6 @@
 {
   "name": "kismet",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nodejs implementation of the Kismet client/server api",
   "main": "index.js",
   "scripts": {
